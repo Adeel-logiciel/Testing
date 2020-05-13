@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mahussain/Logiciel/testing/build",
+  "command": "/bin/clang++-9   -I../include  -g   -o CMakeFiles/tests.dir/Main.cpp.o -c /home/mahussain/Logiciel/testing/Main.cpp",
+  "file": "/home/mahussain/Logiciel/testing/Main.cpp"
+}
+]
