@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mahussain/Logiciel/testingCmake/gTest/tests.cpp
+whatToTest.cpp
+/home/mahussain/Logiciel/testingCmake/gTest/whatToTest.cpp
+gtest/gtest.h
+-
+
+/home/mahussain/Logiciel/testingCmake/gTest/whatToTest.cpp
+
